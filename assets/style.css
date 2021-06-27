@@ -1,0 +1,40 @@
+
+body {
+	transform: translateY(100px);
+	background: #ECEFF1;
+	font-family: 'Montserrat';
+	text-align: center;
+}
+
+a {
+	color: #212121;
+	transition: opacity linear 0.3s;
+}
+
+a:hover {
+	opacity: 0.8;
+	color: #212121;	
+}
+
+.title {
+	 font-family: 'Jomhuria';
+     font-size: 4em;
+     margin: 10px 0px;
+}
+
+#profile img {
+	margin: 0px auto;
+	display: block;	
+	border: solid 8px #607D8B;
+}
+
+
+#home p {
+	font-size: 18px;
+}
+
+#tombol a {color: #fff;}
+
+.btn-rounded {
+    border-radius: 35px;
+}
